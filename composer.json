@@ -1,0 +1,13 @@
+{
+    "name": "zf1-autoloaders/zf1-autoloaders",
+    "description": "ZF Autoloaders",
+    "authors": [
+        {
+            "name": "Matthew Weier O'Phinney",
+            "email": "none@none.com"
+        }
+    ],
+    "require": {
+
+    }
+}
